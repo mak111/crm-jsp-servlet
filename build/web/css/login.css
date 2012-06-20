@@ -1,0 +1,58 @@
+/* 
+    Document   : login
+    Created on : 6 Jun, 2012, 2:44:52 PM
+    Author     : mchandan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.body { 
+	font-size: 12px;
+}
+	
+.buttonLogin {
+	border: 1px solid #444444;
+	font-size: 11px;
+	color: #ffffff;
+	background-color: #666666;
+	font-weight: bold;
+}
+	
+table.tabForm td {
+    border: none;
+}
+	
+p {
+	MARGIN-TOP: 0px;
+	MARGIN-BOTTOM: 10px;
+}
+	
+form {
+	margin: 0px;
+}
+
+#recaptcha_image {
+    height: 47.5px !important;
+    width: 250px !important;
+}
+
+#recaptcha_image img {
+    height: 47.5px;
+    width: 250px;
+} 	
+
+.loginBox {
+	background-image: url(../../themes/default/images/login-bg.png); 
+	background-repeat: repeat-x;
+	border: 1px solid #999999; 
+	background-color: #e8e8e8;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+	padding: 20px;	
+
+}
+.dashletPanelMenu .bd .bd-center {
+	padding-top: 0px;
+}
+
